@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"Block_1_png","path":"sprites/Block_1_png/Block_1_png.yy",},},
     {"id":{"name":"obj_bland_block","path":"objects/obj_bland_block/obj_bland_block.yy",},},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Player_1_png","path":"sprites/Player_1_png/Player_1_png.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
