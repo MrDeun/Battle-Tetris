@@ -27,7 +27,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"PixelEmulator-xq08.ttf","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -35,10 +37,13 @@
   },
   "resources": [
     {"id":{"name":"Block_1_png","path":"sprites/Block_1_png/Block_1_png.yy",},},
+    {"id":{"name":"sprite_placeholder_player_4","path":"sprites/sprite_placeholder_player_4/sprite_placeholder_player_4.yy",},},
     {"id":{"name":"obj_bland_block","path":"objects/obj_bland_block/obj_bland_block.yy",},},
-    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Player_1_png","path":"sprites/Player_1_png/Player_1_png.yy",},},
+    {"id":{"name":"sprite_placeholder_player_0","path":"sprites/sprite_placeholder_player_0/sprite_placeholder_player_0.yy",},},
+    {"id":{"name":"sprite_placeholder_player_1","path":"sprites/sprite_placeholder_player_1/sprite_placeholder_player_1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

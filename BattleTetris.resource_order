@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Block_1_png","order":1,"path":"sprites/Block_1_png/Block_1_png.yy",},
-    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"sprite_placeholder_player_4","order":4,"path":"sprites/sprite_placeholder_player_4/sprite_placeholder_player_4.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"sprite_placeholder_player_0","order":5,"path":"sprites/sprite_placeholder_player_0/sprite_placeholder_player_0.yy",},
+    {"name":"sprite_placeholder_player_1","order":6,"path":"sprites/sprite_placeholder_player_1/sprite_placeholder_player_1.yy",},
   ],
 }

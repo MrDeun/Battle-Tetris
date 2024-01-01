@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Player_1_png",
-    "path": "sprites/Player_1_png/Player_1_png.yy",
+    "name": "sprite_placeholder_player_0",
+    "path": "sprites/sprite_placeholder_player_0/sprite_placeholder_player_0.yy",
   },
   "spriteMaskId": null,
   "visible": true,
