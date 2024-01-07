@@ -45,3 +45,27 @@ x += horizontal_velocity;
 y += vertical_velocity;
 
 
+//ANIMATION
+
+if (!place_meeting(x,y+1,obj_bland_block))
+{
+	sprite_index = sprite_placeholder_player_4;
+	image_speed = 0
+}
+else
+{
+	image_speed = 2
+	if(horizontal_velocity == 0)
+	{
+		sprite_index = sprite_placeholder_player_0
+	}
+	else
+	{
+		sprite_index = sprite_placeholder_player_1
+	}
+}
+
+if(horizontal_velocity != 0) 
+{
+	image_xscale = sign(horizontal_velocity);
+}
