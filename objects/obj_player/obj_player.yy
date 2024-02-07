@@ -27,11 +27,14 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "Player_1_png",
-    "path": "sprites/Player_1_png/Player_1_png.yy",
+    "name": "sprite_placeholder_player_0",
+    "path": "sprites/sprite_placeholder_player_0/sprite_placeholder_player_0.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprite_placeholder_player_0",
+    "path": "sprites/sprite_placeholder_player_0/sprite_placeholder_player_0.yy",
+  },
   "visible": true,
 }
